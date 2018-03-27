@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.AlfonzGoingGreen.OBBDownloaderService;
-import com.YourCompany.AlfonzGoingGreen.DownloaderActivity;
+import alfonz.green.OBBDownloaderService;
+import alfonz.green.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.AlfonzGoingGreen.OBBData;
+import alfonz.green.OBBData;
 
 
 public class DownloadShim
